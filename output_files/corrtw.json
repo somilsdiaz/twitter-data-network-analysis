@@ -1,0 +1,604 @@
+{
+    "coretweets": [
+        {
+            "authors": {
+                "u1": "UEFAEURO",
+                "u2": "BBCSport"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "SakiNextDoor"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "UEFAEURO",
+                "u2": "HS2_QRK5_s9"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "cooldog3003"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "ShafiqueAzam1",
+                "u2": "Cov_Bhoy"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "gpconsortia"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "ShafiqueAzam1",
+                "u2": "UKPropertyFeed"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "gpconsortia"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "ShafiqueAzam1",
+                "u2": "GNU_Ninja"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "gpconsortia"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "SadiqKhan",
+                "u2": "Mr_PaulWatson"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "Vote4HEROES"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "LouiseMensch",
+                "u2": "NoThanksEU"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "mephistofish"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "PeoplesNHS",
+                "u2": "NHS_July51948"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "Sheila75262364"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "UKIP",
+                "u2": "Walkertronic"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "alllibertynews"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Panoramix_Radio",
+                "u2": "djyannickyan"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "RadioCosmose"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "PaulJamesOakley",
+                "u2": "steven_winstone"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "HouseofTwitsUKI"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "janed6102",
+                "u2": "ireexit"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "hetty_getty"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "theordinaryman2",
+                "u2": "ecmagenda"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "MuppetV2"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "0x4M8bZK9xMUh79",
+                "u2": "montie"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "MikkiL"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "0x4M8bZK9xMUh79",
+                "u2": "GO_BRITAIN"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "MikkiL"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "SkyNews",
+                "u2": "Bruegel_org"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "ejwwest"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "RuthLeaEcon",
+                "u2": "vote_leave"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "Makerel_Sky"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Einzelfallbearb",
+                "u2": "Dwalingen"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "heike1502"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "montie",
+                "u2": "GO_BRITAIN"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "MikkiL"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Amaka_Ekwo",
+                "u2": "NkirukaNistoran"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "justusduru"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "DeniseDennyp342",
+                "u2": "SJ_Powell"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "Welshdellboy"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "ILNewsFlash",
+                "u2": "PrisonPlanet"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "Holmesdonna1"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Dwalingen",
+                "u2": "TJEmin96"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Dwalingen",
+                "u2": "chrisg0000"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Dwalingen",
+                "u2": "Charlton_UKIP"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Dwalingen",
+                "u2": "NollyPrott"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "BMouthPR",
+                "u2": "hannahblythyn"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "BMouthPR",
+                "u2": "OgraFiannaFail"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "BMouthPR",
+                "u2": "hannahlouisef"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "BMouthPR",
+                "u2": "MC_squared_"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "BMouthPR",
+                "u2": "Kipper_efc"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "BrexitNoww",
+                "u2": "yorkspride"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "Sue36650435"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "annie_122",
+                "u2": "NicolaSturgeon"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "VoteInEU"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "BetterOffOut",
+                "u2": "JoeThorpe1963"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "OMavis67"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "ESPNFC",
+                "u2": "BigChigga"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "asabere11"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "MissLauraMarcus",
+                "u2": "zesty_manutd"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "kwaku_addison_"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "parastoosepid21",
+                "u2": "jaberhabibbi"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "IIHamiII"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "EURO2016",
+                "u2": "beINSPORTS"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "zezo2000380479"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "TJEmin96",
+                "u2": "chrisg0000"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "TJEmin96",
+                "u2": "Charlton_UKIP"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "TJEmin96",
+                "u2": "NollyPrott"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "EmekaGift",
+                "u2": "UdeObasi35"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "greenw82"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "orca_waves",
+                "u2": "h0t_p0ppy"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "GandhiJump"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "hannahblythyn",
+                "u2": "OgraFiannaFail"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "hannahblythyn",
+                "u2": "hannahlouisef"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "hannahblythyn",
+                "u2": "MC_squared_"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "hannahblythyn",
+                "u2": "Kipper_efc"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Cov_Bhoy",
+                "u2": "UKPropertyFeed"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "gpconsortia"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Cov_Bhoy",
+                "u2": "GNU_Ninja"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "gpconsortia"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "chrisg0000",
+                "u2": "Charlton_UKIP"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "chrisg0000",
+                "u2": "NollyPrott"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "OgraFiannaFail",
+                "u2": "hannahlouisef"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "OgraFiannaFail",
+                "u2": "MC_squared_"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "OgraFiannaFail",
+                "u2": "Kipper_efc"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "Charlton_UKIP",
+                "u2": "NollyPrott"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteLeave"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "hannahlouisef",
+                "u2": "MC_squared_"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "hannahlouisef",
+                "u2": "Kipper_efc"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "MC_squared_",
+                "u2": "Kipper_efc"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "iVoteStay"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "UKPropertyFeed",
+                "u2": "GNU_Ninja"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "gpconsortia"
+            ]
+        },
+        {
+            "authors": {
+                "u1": "TipsandChicks",
+                "u2": "bettingpredict"
+            },
+            "totalCoretweets": 1,
+            "retweeters": [
+                "PukkaPrintGifts"
+            ]
+        }
+    ]
+}

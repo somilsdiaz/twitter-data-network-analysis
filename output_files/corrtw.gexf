@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-16">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="UEFAEURO" label="UEFAEURO" />
+      <node id="BBCSport" label="BBCSport" />
+      <node id="HS2_QRK5_s9" label="HS2_QRK5_s9" />
+      <node id="ShafiqueAzam1" label="ShafiqueAzam1" />
+      <node id="Cov_Bhoy" label="Cov_Bhoy" />
+      <node id="UKPropertyFeed" label="UKPropertyFeed" />
+      <node id="GNU_Ninja" label="GNU_Ninja" />
+      <node id="SadiqKhan" label="SadiqKhan" />
+      <node id="Mr_PaulWatson" label="Mr_PaulWatson" />
+      <node id="LouiseMensch" label="LouiseMensch" />
+      <node id="NoThanksEU" label="NoThanksEU" />
+      <node id="PeoplesNHS" label="PeoplesNHS" />
+      <node id="NHS_July51948" label="NHS_July51948" />
+      <node id="UKIP" label="UKIP" />
+      <node id="Walkertronic" label="Walkertronic" />
+      <node id="Panoramix_Radio" label="Panoramix_Radio" />
+      <node id="djyannickyan" label="djyannickyan" />
+      <node id="PaulJamesOakley" label="PaulJamesOakley" />
+      <node id="steven_winstone" label="steven_winstone" />
+      <node id="janed6102" label="janed6102" />
+      <node id="ireexit" label="ireexit" />
+      <node id="theordinaryman2" label="theordinaryman2" />
+      <node id="ecmagenda" label="ecmagenda" />
+      <node id="0x4M8bZK9xMUh79" label="0x4M8bZK9xMUh79" />
+      <node id="montie" label="montie" />
+      <node id="GO_BRITAIN" label="GO_BRITAIN" />
+      <node id="SkyNews" label="SkyNews" />
+      <node id="Bruegel_org" label="Bruegel_org" />
+      <node id="RuthLeaEcon" label="RuthLeaEcon" />
+      <node id="vote_leave" label="vote_leave" />
+      <node id="Einzelfallbearb" label="Einzelfallbearb" />
+      <node id="Dwalingen" label="Dwalingen" />
+      <node id="Amaka_Ekwo" label="Amaka_Ekwo" />
+      <node id="NkirukaNistoran" label="NkirukaNistoran" />
+      <node id="DeniseDennyp342" label="DeniseDennyp342" />
+      <node id="SJ_Powell" label="SJ_Powell" />
+      <node id="ILNewsFlash" label="ILNewsFlash" />
+      <node id="PrisonPlanet" label="PrisonPlanet" />
+      <node id="TJEmin96" label="TJEmin96" />
+      <node id="chrisg0000" label="chrisg0000" />
+      <node id="Charlton_UKIP" label="Charlton_UKIP" />
+      <node id="NollyPrott" label="NollyPrott" />
+      <node id="BMouthPR" label="BMouthPR" />
+      <node id="hannahblythyn" label="hannahblythyn" />
+      <node id="OgraFiannaFail" label="OgraFiannaFail" />
+      <node id="hannahlouisef" label="hannahlouisef" />
+      <node id="MC_squared_" label="MC_squared_" />
+      <node id="Kipper_efc" label="Kipper_efc" />
+      <node id="BrexitNoww" label="BrexitNoww" />
+      <node id="yorkspride" label="yorkspride" />
+      <node id="annie_122" label="annie_122" />
+      <node id="NicolaSturgeon" label="NicolaSturgeon" />
+      <node id="BetterOffOut" label="BetterOffOut" />
+      <node id="JoeThorpe1963" label="JoeThorpe1963" />
+      <node id="ESPNFC" label="ESPNFC" />
+      <node id="BigChigga" label="BigChigga" />
+      <node id="MissLauraMarcus" label="MissLauraMarcus" />
+      <node id="zesty_manutd" label="zesty_manutd" />
+      <node id="parastoosepid21" label="parastoosepid21" />
+      <node id="jaberhabibbi" label="jaberhabibbi" />
+      <node id="EURO2016" label="EURO2016" />
+      <node id="beINSPORTS" label="beINSPORTS" />
+      <node id="EmekaGift" label="EmekaGift" />
+      <node id="UdeObasi35" label="UdeObasi35" />
+      <node id="orca_waves" label="orca_waves" />
+      <node id="h0t_p0ppy" label="h0t_p0ppy" />
+      <node id="TipsandChicks" label="TipsandChicks" />
+      <node id="bettingpredict" label="bettingpredict" />
+    </nodes>
+    <edges>
+      <edge source="UEFAEURO" target="BBCSport" id="0" weight="1" />
+      <edge source="UEFAEURO" target="HS2_QRK5_s9" id="1" weight="1" />
+      <edge source="ShafiqueAzam1" target="Cov_Bhoy" id="2" weight="1" />
+      <edge source="ShafiqueAzam1" target="UKPropertyFeed" id="3" weight="1" />
+      <edge source="ShafiqueAzam1" target="GNU_Ninja" id="4" weight="1" />
+      <edge source="Cov_Bhoy" target="UKPropertyFeed" id="5" weight="1" />
+      <edge source="Cov_Bhoy" target="GNU_Ninja" id="6" weight="1" />
+      <edge source="UKPropertyFeed" target="GNU_Ninja" id="7" weight="1" />
+      <edge source="SadiqKhan" target="Mr_PaulWatson" id="8" weight="1" />
+      <edge source="LouiseMensch" target="NoThanksEU" id="9" weight="1" />
+      <edge source="PeoplesNHS" target="NHS_July51948" id="10" weight="1" />
+      <edge source="UKIP" target="Walkertronic" id="11" weight="1" />
+      <edge source="Panoramix_Radio" target="djyannickyan" id="12" weight="1" />
+      <edge source="PaulJamesOakley" target="steven_winstone" id="13" weight="1" />
+      <edge source="janed6102" target="ireexit" id="14" weight="1" />
+      <edge source="theordinaryman2" target="ecmagenda" id="15" weight="1" />
+      <edge source="0x4M8bZK9xMUh79" target="montie" id="16" weight="1" />
+      <edge source="0x4M8bZK9xMUh79" target="GO_BRITAIN" id="17" weight="1" />
+      <edge source="montie" target="GO_BRITAIN" id="18" weight="1" />
+      <edge source="SkyNews" target="Bruegel_org" id="19" weight="1" />
+      <edge source="RuthLeaEcon" target="vote_leave" id="20" weight="1" />
+      <edge source="Einzelfallbearb" target="Dwalingen" id="21" weight="1" />
+      <edge source="Dwalingen" target="TJEmin96" id="22" weight="1" />
+      <edge source="Dwalingen" target="chrisg0000" id="23" weight="1" />
+      <edge source="Dwalingen" target="Charlton_UKIP" id="24" weight="1" />
+      <edge source="Dwalingen" target="NollyPrott" id="25" weight="1" />
+      <edge source="Amaka_Ekwo" target="NkirukaNistoran" id="26" weight="1" />
+      <edge source="DeniseDennyp342" target="SJ_Powell" id="27" weight="1" />
+      <edge source="ILNewsFlash" target="PrisonPlanet" id="28" weight="1" />
+      <edge source="TJEmin96" target="chrisg0000" id="29" weight="1" />
+      <edge source="TJEmin96" target="Charlton_UKIP" id="30" weight="1" />
+      <edge source="TJEmin96" target="NollyPrott" id="31" weight="1" />
+      <edge source="chrisg0000" target="Charlton_UKIP" id="32" weight="1" />
+      <edge source="chrisg0000" target="NollyPrott" id="33" weight="1" />
+      <edge source="Charlton_UKIP" target="NollyPrott" id="34" weight="1" />
+      <edge source="BMouthPR" target="hannahblythyn" id="35" weight="1" />
+      <edge source="BMouthPR" target="OgraFiannaFail" id="36" weight="1" />
+      <edge source="BMouthPR" target="hannahlouisef" id="37" weight="1" />
+      <edge source="BMouthPR" target="MC_squared_" id="38" weight="1" />
+      <edge source="BMouthPR" target="Kipper_efc" id="39" weight="1" />
+      <edge source="hannahblythyn" target="OgraFiannaFail" id="40" weight="1" />
+      <edge source="hannahblythyn" target="hannahlouisef" id="41" weight="1" />
+      <edge source="hannahblythyn" target="MC_squared_" id="42" weight="1" />
+      <edge source="hannahblythyn" target="Kipper_efc" id="43" weight="1" />
+      <edge source="OgraFiannaFail" target="hannahlouisef" id="44" weight="1" />
+      <edge source="OgraFiannaFail" target="MC_squared_" id="45" weight="1" />
+      <edge source="OgraFiannaFail" target="Kipper_efc" id="46" weight="1" />
+      <edge source="hannahlouisef" target="MC_squared_" id="47" weight="1" />
+      <edge source="hannahlouisef" target="Kipper_efc" id="48" weight="1" />
+      <edge source="MC_squared_" target="Kipper_efc" id="49" weight="1" />
+      <edge source="BrexitNoww" target="yorkspride" id="50" weight="1" />
+      <edge source="annie_122" target="NicolaSturgeon" id="51" weight="1" />
+      <edge source="BetterOffOut" target="JoeThorpe1963" id="52" weight="1" />
+      <edge source="ESPNFC" target="BigChigga" id="53" weight="1" />
+      <edge source="MissLauraMarcus" target="zesty_manutd" id="54" weight="1" />
+      <edge source="parastoosepid21" target="jaberhabibbi" id="55" weight="1" />
+      <edge source="EURO2016" target="beINSPORTS" id="56" weight="1" />
+      <edge source="EmekaGift" target="UdeObasi35" id="57" weight="1" />
+      <edge source="orca_waves" target="h0t_p0ppy" id="58" weight="1" />
+      <edge source="TipsandChicks" target="bettingpredict" id="59" weight="1" />
+    </edges>
+  </graph>
+</gexf>
